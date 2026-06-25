@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/SparshKoul/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/SparshKoul/leetcode/tree/master/0069-sqrtx) |
 ## Sorting
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SparshKoul/leetcode/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SparshKoul/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
