@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0217-contains-duplicate](https://github.com/SparshKoul/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/SparshKoul/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/SparshKoul/leetcode/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/SparshKoul/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0027-remove-element](https://github.com/SparshKoul/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/SparshKoul/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/SparshKoul/leetcode/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/SparshKoul/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0088-merge-sorted-array](https://github.com/SparshKoul/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SparshKoul/leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/SparshKoul/leetcode/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/SparshKoul/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
