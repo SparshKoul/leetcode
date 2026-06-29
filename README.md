@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0001-two-sum](https://github.com/SparshKoul/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/SparshKoul/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SparshKoul/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SparshKoul/leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SparshKoul/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SparshKoul/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SparshKoul/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SparshKoul/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/SparshKoul/leetcode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/SparshKoul/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0058-length-of-last-word](https://github.com/SparshKoul/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/SparshKoul/leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/SparshKoul/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/SparshKoul/leetcode/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
