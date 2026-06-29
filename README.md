@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0009-palindrome-number](https://github.com/SparshKoul/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/SparshKoul/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SparshKoul/leetcode/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/SparshKoul/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/SparshKoul/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0020-valid-parentheses](https://github.com/SparshKoul/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/SparshKoul/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/SparshKoul/leetcode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/SparshKoul/leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Trie
 |  |
 | ------- |
