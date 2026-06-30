@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0171-excel-sheet-column-number](https://github.com/SparshKoul/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/SparshKoul/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SparshKoul/leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/SparshKoul/leetcode/tree/master/0326-power-of-three) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SparshKoul/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/SparshKoul/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/SparshKoul/leetcode/tree/master/0326-power-of-three) |
 ## Memoization
 |  |
 | ------- |
