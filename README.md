@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0069-sqrtx](https://github.com/SparshKoul/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SparshKoul/leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/SparshKoul/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/SparshKoul/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SparshKoul/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SparshKoul/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/SparshKoul/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SparshKoul/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SparshKoul/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/SparshKoul/leetcode/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
