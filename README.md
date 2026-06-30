@@ -113,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0278-first-bad-version](https://github.com/SparshKoul/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/SparshKoul/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SparshKoul/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SparshKoul/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
