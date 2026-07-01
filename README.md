@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SparshKoul/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SparshKoul/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SparshKoul/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/SparshKoul/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/SparshKoul/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SparshKoul/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/SparshKoul/leetcode/tree/master/0414-third-maximum-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0041-first-missing-positive](https://github.com/SparshKoul/leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/SparshKoul/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/SparshKoul/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/SparshKoul/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SparshKoul/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SparshKoul/leetcode/tree/master/0268-missing-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SparshKoul/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0070-climbing-stairs](https://github.com/SparshKoul/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SparshKoul/leetcode/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/SparshKoul/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
