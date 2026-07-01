@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0136-single-number](https://github.com/SparshKoul/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SparshKoul/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SparshKoul/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/SparshKoul/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SparshKoul/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SparshKoul/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SparshKoul/leetcode/tree/master/0283-move-zeroes) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0125-valid-palindrome](https://github.com/SparshKoul/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SparshKoul/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SparshKoul/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/SparshKoul/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SparshKoul/leetcode/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/SparshKoul/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0069-sqrtx](https://github.com/SparshKoul/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SparshKoul/leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/SparshKoul/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/SparshKoul/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SparshKoul/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SparshKoul/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SparshKoul/leetcode/tree/master/0326-power-of-three) |
