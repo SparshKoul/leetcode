@@ -17,6 +17,7 @@ class Solution {
             int mid = low + (high - low) / 2;
 
             // Left 
+            
             if (nums[low] <= nums[mid]) {
 
                 ans = Math.min(ans, nums[low]);
