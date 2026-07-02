@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0238-product-of-array-except-self](https://github.com/SparshKoul/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SparshKoul/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SparshKoul/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SparshKoul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/SparshKoul/leetcode/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/SparshKoul/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SparshKoul/leetcode/tree/master/0724-find-pivot-index) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SparshKoul/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SparshKoul/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SparshKoul/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SparshKoul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/SparshKoul/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0136-single-number](https://github.com/SparshKoul/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SparshKoul/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SparshKoul/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SparshKoul/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SparshKoul/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/SparshKoul/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/SparshKoul/leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/SparshKoul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/SparshKoul/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/SparshKoul/leetcode/tree/master/0704-binary-search) |
 ## Prefix Sum
