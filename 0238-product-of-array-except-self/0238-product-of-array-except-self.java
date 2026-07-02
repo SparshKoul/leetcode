@@ -30,7 +30,7 @@ class Solution {
             return ans;
         }
 
-        //  No zeros
+        // ifff No zeros
         for (int i = 0; i < n; i++) {
             ans[i] = product / nums[i];
         }
