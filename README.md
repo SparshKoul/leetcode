@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0560-subarray-sum-equals-k](https://github.com/SparshKoul/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/SparshKoul/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SparshKoul/leetcode/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/SparshKoul/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/SparshKoul/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/SparshKoul/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/SparshKoul/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0268-missing-number](https://github.com/SparshKoul/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/SparshKoul/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SparshKoul/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/SparshKoul/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/SparshKoul/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Bit Manipulation
 |  |
