@@ -12,7 +12,8 @@ class Solution {
         }
         int secondlargest = Integer.MIN_VALUE;
         for (int i = 0; i < n; i++) {
-            if (arr[i] > secondlargest && largest != arr[i]) {
+            //if (arr[i] > secondlargest && largest != arr[i]) {
+            if (arr[i] > secondlargest && i != index) {
                 secondlargest = arr[i];
             }
         }
