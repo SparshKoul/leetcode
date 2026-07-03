@@ -16,7 +16,6 @@ class Solution {
                 secondlargest = arr[i];
             }
         }
-        System.out.println(secondlargest);
 
         if (largest >= (secondlargest * 2)) {
             return index;
