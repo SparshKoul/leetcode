@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0905-sort-array-by-parity](https://github.com/SparshKoul/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SparshKoul/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/SparshKoul/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SparshKoul/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0876-middle-of-the-linked-list](https://github.com/SparshKoul/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SparshKoul/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/SparshKoul/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SparshKoul/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
