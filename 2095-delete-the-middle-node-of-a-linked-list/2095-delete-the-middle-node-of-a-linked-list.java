@@ -26,7 +26,7 @@ class Solution {
         if (head == null || head.next == null) {
             return null;
         }
-        ListNode mid = findmid(head); //at 1st half end
+        ListNode mid = findmid(head); //at 1st hhlaf seconf last
         mid.next = mid.next.next;
         return head;
     }
