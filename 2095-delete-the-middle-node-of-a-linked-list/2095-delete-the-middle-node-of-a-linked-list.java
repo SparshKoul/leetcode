@@ -32,3 +32,5 @@ class Solution {
     }
 
 }
+//odd k liye slow at is hald k second last like 2 for 12345
+//even it normal 2 for 1234
