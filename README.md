@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0001-two-sum](https://github.com/SparshKoul/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/SparshKoul/leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/SparshKoul/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/SparshKoul/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SparshKoul/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SparshKoul/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/SparshKoul/leetcode/tree/master/0217-contains-duplicate) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SparshKoul/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/SparshKoul/leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/SparshKoul/leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/SparshKoul/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SparshKoul/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SparshKoul/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/SparshKoul/leetcode/tree/master/0203-remove-linked-list-elements) |
