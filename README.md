@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0141-linked-list-cycle](https://github.com/SparshKoul/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SparshKoul/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/SparshKoul/leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/SparshKoul/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SparshKoul/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SparshKoul/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SparshKoul/leetcode/tree/master/0189-rotate-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SparshKoul/leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/SparshKoul/leetcode/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0018-4sum](https://github.com/SparshKoul/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/SparshKoul/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SparshKoul/leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/SparshKoul/leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/SparshKoul/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SparshKoul/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SparshKoul/leetcode/tree/master/0268-missing-number) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0141-linked-list-cycle](https://github.com/SparshKoul/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SparshKoul/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/SparshKoul/leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/SparshKoul/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SparshKoul/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/SparshKoul/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SparshKoul/leetcode/tree/master/0206-reverse-linked-list) |
@@ -244,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SparshKoul/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/SparshKoul/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
