@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0326-power-of-three](https://github.com/SparshKoul/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/SparshKoul/leetcode/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SparshKoul/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SparshKoul/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -351,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0098-validate-binary-search-tree](https://github.com/SparshKoul/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SparshKoul/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/SparshKoul/leetcode/tree/master/0938-range-sum-of-bst) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SparshKoul/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
