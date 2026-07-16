@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SparshKoul/leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/SparshKoul/leetcode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/SparshKoul/leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/SparshKoul/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/SparshKoul/leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SparshKoul/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/SparshKoul/leetcode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/SparshKoul/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SparshKoul/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SparshKoul/leetcode/tree/master/0070-climbing-stairs) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SparshKoul/leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/SparshKoul/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SparshKoul/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SparshKoul/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
