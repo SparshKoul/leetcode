@@ -49,6 +49,8 @@
             printLevel(root, i, levelNodes);
 
             ans.add(levelNodes.get(levelNodes.size() - 1));
+            //ans.add(levelNodes.get(0)); left side 
+
         }
 
         return ans;
