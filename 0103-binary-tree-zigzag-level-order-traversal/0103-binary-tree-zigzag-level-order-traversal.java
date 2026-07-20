@@ -32,7 +32,6 @@ class Solution {
             return;
         if (level == 1) {
             arr.add(root.val);
-
             return;
         }
 
