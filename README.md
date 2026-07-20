@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0669-trim-a-binary-search-tree](https://github.com/SparshKoul/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SparshKoul/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SparshKoul/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/SparshKoul/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/SparshKoul/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/SparshKoul/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/SparshKoul/leetcode/tree/master/0965-univalued-binary-tree) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0617-merge-two-binary-trees](https://github.com/SparshKoul/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SparshKoul/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/SparshKoul/leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/SparshKoul/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/SparshKoul/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/SparshKoul/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/SparshKoul/leetcode/tree/master/0965-univalued-binary-tree) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0669-trim-a-binary-search-tree](https://github.com/SparshKoul/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SparshKoul/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SparshKoul/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/SparshKoul/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/SparshKoul/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/SparshKoul/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/SparshKoul/leetcode/tree/master/0965-univalued-binary-tree) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SparshKoul/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/SparshKoul/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SparshKoul/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/SparshKoul/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/SparshKoul/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/SparshKoul/leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Backtracking
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0669-trim-a-binary-search-tree](https://github.com/SparshKoul/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SparshKoul/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SparshKoul/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/SparshKoul/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/SparshKoul/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Number Theory
 |  |
