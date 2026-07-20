@@ -14,8 +14,11 @@ class Solution {
         while (head != null && head.val == val) {
             head = head.next;
         }
+        if (head == null) {
+            return null;
+        }
         ListNode temp=head;
-        while(temp!=null && temp.next !=null){
+        while( temp.next !=null){
             if(temp.next.val==val){
                 temp.next=temp.next.next;
             }
