@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SparshKoul/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/SparshKoul/leetcode/tree/master/0547-number-of-provinces) |
 ## String Matching
 |  |
 | ------- |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SparshKoul/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/SparshKoul/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SparshKoul/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/SparshKoul/leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/SparshKoul/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SparshKoul/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/SparshKoul/leetcode/tree/master/0669-trim-a-binary-search-tree) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0429-n-ary-tree-level-order-traversal](https://github.com/SparshKoul/leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SparshKoul/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SparshKoul/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/SparshKoul/leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/SparshKoul/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SparshKoul/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SparshKoul/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -434,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/SparshKoul/leetcode/tree/master/1291-sequential-digits) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/SparshKoul/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
