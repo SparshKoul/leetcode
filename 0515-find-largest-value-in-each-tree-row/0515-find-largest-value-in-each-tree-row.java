@@ -13,6 +13,8 @@
  *     }
  * }
  */
+
+ //Find the height of the tree, collect all node values level by level using recursion, and add the maximum value from each level to the answer list.
 class Solution {
     public  int height(TreeNode root){
         if(root==null){
