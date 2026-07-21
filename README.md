@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0171-excel-sheet-column-number](https://github.com/SparshKoul/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/SparshKoul/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/SparshKoul/leetcode/tree/master/0257-binary-tree-paths) |
+| [0459-repeated-substring-pattern](https://github.com/SparshKoul/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/SparshKoul/leetcode/tree/master/0520-detect-capital) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SparshKoul/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2942-find-words-containing-character](https://github.com/SparshKoul/leetcode/tree/master/2942-find-words-containing-character) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SparshKoul/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/SparshKoul/leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Merge Sort
 |  |
 | ------- |
