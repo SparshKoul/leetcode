@@ -8,7 +8,7 @@ class Solution {
         long r = x;
         
         while (r * r > x) {
-            // Newton's update formula: r = (r + x / r) / 2
+            // Newton formula: r = (r + x / r) / 2
             r = (r + x / r) / 2;
         }
 
