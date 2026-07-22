@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0977-squares-of-a-sorted-array](https://github.com/SparshKoul/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1395-count-number-of-teams](https://github.com/SparshKoul/leetcode/tree/master/1395-count-number-of-teams) |
 | [1480-running-sum-of-1d-array](https://github.com/SparshKoul/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/SparshKoul/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SparshKoul/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SparshKoul/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/SparshKoul/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0442-find-all-duplicates-in-an-array](https://github.com/SparshKoul/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SparshKoul/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SparshKoul/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1512-number-of-good-pairs](https://github.com/SparshKoul/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SparshKoul/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SparshKoul/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0367-valid-perfect-square](https://github.com/SparshKoul/leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/SparshKoul/leetcode/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SparshKoul/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1512-number-of-good-pairs](https://github.com/SparshKoul/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SparshKoul/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SparshKoul/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SparshKoul/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -471,5 +474,6 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/SparshKoul/leetcode/tree/master/1512-number-of-good-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SparshKoul/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
