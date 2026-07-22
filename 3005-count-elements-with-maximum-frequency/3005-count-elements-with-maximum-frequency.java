@@ -5,14 +5,14 @@ class Solution {
             map.put(num, map.getOrDefault(num, 0) + 1);
 
         }
-        int maxfreq=0;
-        for(int freq : map.values() ){
-            maxfreq =Math.max(freq,maxfreq);
+        int maxfreq = 0;
+        for (int freq : map.values()) {
+            maxfreq = Math.max(freq, maxfreq);
         }
-        int sum =0;
-        for(int freq : map.values() ){
-            if(freq==maxfreq){
-                sum+=freq;
+        int sum = 0;
+        for (int freq : map.values()) {
+            if (freq == maxfreq) {
+                sum += freq;
             }
         }
         return sum;
