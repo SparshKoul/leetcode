@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1512-number-of-good-pairs](https://github.com/SparshKoul/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SparshKoul/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SparshKoul/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/SparshKoul/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2574-left-and-right-sum-differences](https://github.com/SparshKoul/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/SparshKoul/leetcode/tree/master/2942-find-words-containing-character) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SparshKoul/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0977-squares-of-a-sorted-array](https://github.com/SparshKoul/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/SparshKoul/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SparshKoul/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/SparshKoul/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SparshKoul/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SparshKoul/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/SparshKoul/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SparshKoul/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/SparshKoul/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SparshKoul/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0367-valid-perfect-square](https://github.com/SparshKoul/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/SparshKoul/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/SparshKoul/leetcode/tree/master/0704-binary-search) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/SparshKoul/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Prefix Sum
 |  |
 | ------- |
