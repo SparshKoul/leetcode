@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0033-search-in-rotated-sorted-array](https://github.com/SparshKoul/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SparshKoul/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/SparshKoul/leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/SparshKoul/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SparshKoul/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SparshKoul/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SparshKoul/leetcode/tree/master/0075-sort-colors) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0027-remove-element](https://github.com/SparshKoul/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SparshKoul/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/SparshKoul/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/SparshKoul/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SparshKoul/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SparshKoul/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SparshKoul/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SparshKoul/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SparshKoul/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SparshKoul/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SparshKoul/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SparshKoul/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SparshKoul/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SparshKoul/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/SparshKoul/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SparshKoul/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -441,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/SparshKoul/leetcode/tree/master/0547-number-of-provinces) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SparshKoul/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
