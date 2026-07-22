@@ -1,26 +1,19 @@
 class Solution {
     public int lengthOfLastWord(String s) {
 
-        String arr[] = new String[s.length()];
+        int i = s.length() - 1;
+        int count = 0;
 
-        for (int i = 0; i < s.length(); i++) {
-            arr[i] = String.valueOf(s.charAt(i));
+        // skkkip trailing spaces
+        while (i >= 0 && s.charAt(i) == ' ') {
+            i--;
         }
 
-        int n = arr.length - 1;
-
-        //trailing spaces
-        while (n >= 0 && arr[n].equals(" ")) {
-            n--;
+        while (i >= 0 && s.charAt(i) != ' ') {
+            count++;
+            i--;
         }
 
-        String ans = "";
-
-        while (n >= 0 && !arr[n].equals(" ")) {
-            ans = arr[n] + ans;
-            n--;
-        }
-
-        return ans.length();
+        return count;
     }
 }
