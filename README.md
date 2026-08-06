@@ -507,4 +507,12 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SparshKoul/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/SparshKoul/leetcode/tree/master/0200-number-of-islands) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SparshKoul/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SparshKoul/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
