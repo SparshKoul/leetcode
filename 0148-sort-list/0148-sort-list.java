@@ -9,32 +9,31 @@
  * }
  */
 class Solution {
-    public ListNode findmiddle(ListNode head){
+    public ListNode findmiddle(ListNode head) {
         if (head == null || head.next == null) {
             return head;
         }
-        ListNode slow=head;
-        ListNode fast=head.next;
-        while(fast!=null && fast.next!=null){
-            slow=slow.next;
-            fast=fast.next.next;
+        ListNode slow = head;
+        ListNode fast = head.next;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
         return slow;//slow at 1st half k end
-        
+
     }
+
     public ListNode sortList(ListNode head) {
 
-         if (head == null || head.next == null) {
-        return head;
-    }
+        if (head == null || head.next == null) {
+            return head;
+        }
 
-        ListNode middle=findmiddle(head);
-        
-
+        ListNode middle = findmiddle(head);
 
         //split
-        ListNode righthead=middle.next;
-        middle.next=null;
+        ListNode righthead = middle.next;
+        middle.next = null;
 
         // Sort both halves
         ListNode left = sortList(head);
@@ -42,8 +41,8 @@ class Solution {
 
         return merge(left, right);
 
-
     }
+
     private ListNode merge(ListNode l1, ListNode l2) {
 
         ListNode dummy = new ListNode(-1);
@@ -55,7 +54,7 @@ class Solution {
                 temp.next = l1;
                 l1 = l1.next;
             } else {
-                   temp.next = l2;
+                temp.next = l2;
                 l2 = l2.next;
             }
 
