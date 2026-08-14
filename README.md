@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1748-sum-of-unique-elements](https://github.com/SparshKoul/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SparshKoul/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SparshKoul/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SparshKoul/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/SparshKoul/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0520-detect-capital](https://github.com/SparshKoul/leetcode/tree/master/0520-detect-capital) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SparshKoul/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2942-find-words-containing-character](https://github.com/SparshKoul/leetcode/tree/master/2942-find-words-containing-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SparshKoul/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/SparshKoul/leetcode/tree/master/3110-score-of-a-string) |
 ## Trie
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0219-contains-duplicate-ii](https://github.com/SparshKoul/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/SparshKoul/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SparshKoul/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SparshKoul/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Union-Find
 |  |
 | ------- |
