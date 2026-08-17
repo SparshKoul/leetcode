@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0234-palindrome-linked-list](https://github.com/SparshKoul/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SparshKoul/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SparshKoul/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/SparshKoul/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/SparshKoul/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/SparshKoul/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SparshKoul/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0342-power-of-four](https://github.com/SparshKoul/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/SparshKoul/leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/SparshKoul/leetcode/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/SparshKoul/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SparshKoul/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/SparshKoul/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/SparshKoul/leetcode/tree/master/1518-water-bottles) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0287-find-the-duplicate-number](https://github.com/SparshKoul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/SparshKoul/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/SparshKoul/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0633-sum-of-square-numbers](https://github.com/SparshKoul/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/SparshKoul/leetcode/tree/master/0704-binary-search) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/SparshKoul/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SparshKoul/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
