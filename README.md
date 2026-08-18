@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SparshKoul/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/SparshKoul/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SparshKoul/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/SparshKoul/leetcode/tree/master/0994-rotting-oranges) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SparshKoul/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1395-count-number-of-teams](https://github.com/SparshKoul/leetcode/tree/master/1395-count-number-of-teams) |
 | [1470-shuffle-the-array](https://github.com/SparshKoul/leetcode/tree/master/1470-shuffle-the-array) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SparshKoul/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/SparshKoul/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/SparshKoul/leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/SparshKoul/leetcode/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SparshKoul/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/SparshKoul/leetcode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/SparshKoul/leetcode/tree/master/0994-rotting-oranges) |
 ## Quicksort
 |  |
 | ------- |
