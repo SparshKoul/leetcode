@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0042-trapping-rain-water](https://github.com/SparshKoul/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SparshKoul/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SparshKoul/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/SparshKoul/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SparshKoul/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SparshKoul/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SparshKoul/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0001-two-sum](https://github.com/SparshKoul/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/SparshKoul/leetcode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/SparshKoul/leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/SparshKoul/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SparshKoul/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/SparshKoul/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SparshKoul/leetcode/tree/master/0141-linked-list-cycle) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SparshKoul/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SparshKoul/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/SparshKoul/leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/SparshKoul/leetcode/tree/master/0994-rotting-oranges) |
