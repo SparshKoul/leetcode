@@ -4,7 +4,9 @@ class Solution {
 
         for (char ch : s.toCharArray()) {
             if (ch == '*') {
-                st.pop();
+                if (!st.isEmpty()) {
+                    st.pop();
+                }
             } else {
                 st.push(ch);
             }
