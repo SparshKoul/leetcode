@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0042-trapping-rain-water](https://github.com/SparshKoul/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/SparshKoul/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SparshKoul/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/SparshKoul/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/SparshKoul/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SparshKoul/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SparshKoul/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SparshKoul/leetcode/tree/master/0054-spiral-matrix) |
 | [1518-water-bottles](https://github.com/SparshKoul/leetcode/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/SparshKoul/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SparshKoul/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SparshKoul/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/SparshKoul/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SparshKoul/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SparshKoul/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/SparshKoul/leetcode/tree/master/0200-number-of-islands) |
