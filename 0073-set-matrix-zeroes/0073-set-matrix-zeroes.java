@@ -8,6 +8,7 @@ class Solution {
                 if (matrix[i][j] == 0) {
 
                     //col
+                    //mark it as -10 not -1 as it can be an elem in mat
                     for (int x = 0; x < col; x++) {
                         if (matrix[i][x] != 0) {
                             matrix[i][x] = -10;
