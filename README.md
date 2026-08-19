@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0459-repeated-substring-pattern](https://github.com/SparshKoul/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/SparshKoul/leetcode/tree/master/0520-detect-capital) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SparshKoul/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2390-removing-stars-from-a-string](https://github.com/SparshKoul/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/SparshKoul/leetcode/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SparshKoul/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/SparshKoul/leetcode/tree/master/3110-score-of-a-string) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0144-binary-tree-preorder-traversal](https://github.com/SparshKoul/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SparshKoul/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SparshKoul/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/SparshKoul/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Interactive
 |  |
 | ------- |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1518-water-bottles](https://github.com/SparshKoul/leetcode/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/SparshKoul/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SparshKoul/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/SparshKoul/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SparshKoul/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
