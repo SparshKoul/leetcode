@@ -1,10 +1,22 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        int result =0;
-        for(int num :nums){
-            result^=num;
+        int n =nums.length;
+        int low=0;
+        int high =n-1;
+
+        while(low<high){
+            int mid =low+(high-low)/2;
+
+            if(mid % 2==1){
+                mid--;
+            }
+            if(nums[mid] == nums[mid+1]){
+                low=mid+2; //pair corr
+            }else{
+                high=mid;
+            }
         }
-        return result;
+        return nums[low];
         
     }
 }
