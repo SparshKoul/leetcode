@@ -1,4 +1,5 @@
 class Solution {
+    //try to vis every using bfs is not then there is no key for that 
     public void bfs(int start, List<List<Integer>> rooms, boolean[] vis) {
         Queue<Integer> q =new LinkedList<>();
         q.add(start);
