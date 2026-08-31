@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0977-squares-of-a-sorted-array](https://github.com/SparshKoul/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/SparshKoul/leetcode/tree/master/0994-rotting-oranges) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SparshKoul/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1389-create-target-array-in-the-given-order](https://github.com/SparshKoul/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1395-count-number-of-teams](https://github.com/SparshKoul/leetcode/tree/master/1395-count-number-of-teams) |
 | [1470-shuffle-the-array](https://github.com/SparshKoul/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SparshKoul/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SparshKoul/leetcode/tree/master/0054-spiral-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/SparshKoul/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/SparshKoul/leetcode/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/SparshKoul/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SparshKoul/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
