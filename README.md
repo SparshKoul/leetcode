@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1512-number-of-good-pairs](https://github.com/SparshKoul/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/SparshKoul/leetcode/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/SparshKoul/leetcode/tree/master/1550-three-consecutive-odds) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/SparshKoul/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/SparshKoul/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SparshKoul/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/SparshKoul/leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SparshKoul/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SparshKoul/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/SparshKoul/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/SparshKoul/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/SparshKoul/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SparshKoul/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/SparshKoul/leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SparshKoul/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/SparshKoul/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SparshKoul/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/SparshKoul/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/SparshKoul/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SparshKoul/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/SparshKoul/leetcode/tree/master/3731-find-missing-elements) |
