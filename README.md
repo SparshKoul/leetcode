@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SparshKoul/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SparshKoul/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SparshKoul/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/SparshKoul/leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/SparshKoul/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2574-left-and-right-sum-differences](https://github.com/SparshKoul/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SparshKoul/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1512-number-of-good-pairs](https://github.com/SparshKoul/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/SparshKoul/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SparshKoul/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/SparshKoul/leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SparshKoul/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SparshKoul/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SparshKoul/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0229-majority-element-ii](https://github.com/SparshKoul/leetcode/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/SparshKoul/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/SparshKoul/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/SparshKoul/leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SparshKoul/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Matrix
 |  |
