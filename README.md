@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0268-missing-number](https://github.com/SparshKoul/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SparshKoul/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SparshKoul/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/SparshKoul/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/SparshKoul/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/SparshKoul/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SparshKoul/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0268-missing-number](https://github.com/SparshKoul/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/SparshKoul/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SparshKoul/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/SparshKoul/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SparshKoul/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/SparshKoul/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SparshKoul/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0171-excel-sheet-column-number](https://github.com/SparshKoul/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/SparshKoul/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/SparshKoul/leetcode/tree/master/0257-binary-tree-paths) |
+| [0451-sort-characters-by-frequency](https://github.com/SparshKoul/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/SparshKoul/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/SparshKoul/leetcode/tree/master/0520-detect-capital) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SparshKoul/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0169-majority-element](https://github.com/SparshKoul/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SparshKoul/leetcode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/SparshKoul/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/SparshKoul/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/SparshKoul/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/SparshKoul/leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -619,4 +623,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SparshKoul/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SparshKoul/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SparshKoul/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
