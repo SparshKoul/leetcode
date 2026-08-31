@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1901-find-a-peak-element-ii](https://github.com/SparshKoul/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/SparshKoul/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SparshKoul/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SparshKoul/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SparshKoul/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/SparshKoul/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2574-left-and-right-sum-differences](https://github.com/SparshKoul/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -606,4 +607,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0169-majority-element](https://github.com/SparshKoul/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SparshKoul/leetcode/tree/master/0229-majority-element-ii) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SparshKoul/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
