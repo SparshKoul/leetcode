@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0326-power-of-three](https://github.com/SparshKoul/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SparshKoul/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/SparshKoul/leetcode/tree/master/0367-valid-perfect-square) |
+| [0507-perfect-number](https://github.com/SparshKoul/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/SparshKoul/leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/SparshKoul/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SparshKoul/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
