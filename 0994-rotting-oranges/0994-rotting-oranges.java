@@ -1,66 +1,62 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        int rows = grid.length;
-        int cols = grid[0].length;
 
-        int fresh = 0;
-        Queue<int[]> q = new LinkedList<>();
+        int rows =grid.length;
+        int cols =grid[0].length;
 
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                if (grid[i][j] == 2) {
-                    q.add(new int[] { i, j });
-                }
-                if (grid[i][j] == 1) {
-                    fresh++;
-                }
+        Queue<int []> q =new LinkedList<>();
+        int fresh=0;
+
+        for(int i=0;i<rows;i++){
+            for(int j=0;j<cols;j++){
+            if(grid[i][j]==2  ){
+                q.add(new int []{i,j});
+            }
+            if(grid[i][j] ==1){
+                fresh++;
+            }
             }
         }
 
-        int time = 0;
+        int time =0;
+        while(!q.isEmpty() && fresh>0){
 
-        while (!q.isEmpty() && fresh > 0) {
-            int size = q.size();
-            for (int i = 0; i < size; i++) {
-                int curr[] = q.poll();
+            int size =q.size();
+            for(int i=0;i<size;i++){
+                int curr [] =q.poll();
 
-                int r = curr[0];
-                int c = curr[1];
+                int r =curr[0];
+                int c =curr[1];
 
-                //up
-                if (r - 1 >= 0 && grid[r - 1][c] == 1) {
-                    grid[r - 1][c] = 2;
+                if(r-1>=0 && grid[r-1][c]  == 1){
+                    grid[r-1][c] =2;
                     fresh--;
-                    q.add(new int[] { r - 1, c });
+                    q.add(new int [] {r-1, c});
                 }
-
-                //down
-                if (r + 1 < rows && grid[r + 1][c] == 1) {
-                    grid[r + 1][c] = 2;
+                if(r+1<rows && grid[r+1][c]  == 1){
+                    grid[r+1][c] =2;
                     fresh--;
-                    q.add(new int[] { r + 1, c });
+                    q.add(new int [] {r+1, c});
                 }
-
-                //leftt
-                if (c - 1 >= 0 && grid[r][c - 1] == 1) {
-                    grid[r][c - 1] = 2;
+                if(c-1>=0 && grid[r][c-1]  == 1){
+                    grid[r][c-1] =2;
                     fresh--;
-                    q.add(new int[] { r, c - 1 });
+                    q.add(new int [] {r, c-1});
                 }
-
-                //right
-                if (c + 1 < cols && grid[r][c + 1] == 1) {
-                    grid[r][c + 1] = 2;
+                if(c +1<cols && grid[r][c+1]  == 1){
+                    grid[r][c+1] =2;
                     fresh--;
-                    q.add(new int[] { r, c + 1 });
+                    q.add(new int [] {r, c+1});
                 }
 
             }
             time++;
         }
-        if (fresh == 0) {
+
+        if(fresh ==0){
             return time;
         }
         return -1;
+        
     }
 }
