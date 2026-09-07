@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SparshKoul/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/SparshKoul/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/SparshKoul/leetcode/tree/master/1518-water-bottles) |
+| [1903-largest-odd-number-in-string](https://github.com/SparshKoul/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SparshKoul/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SparshKoul/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SparshKoul/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0459-repeated-substring-pattern](https://github.com/SparshKoul/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/SparshKoul/leetcode/tree/master/0520-detect-capital) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SparshKoul/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1903-largest-odd-number-in-string](https://github.com/SparshKoul/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/SparshKoul/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/SparshKoul/leetcode/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SparshKoul/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/SparshKoul/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SparshKoul/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Heap (Priority Queue)
 |  |
