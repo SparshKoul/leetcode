@@ -1,19 +1,21 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
-        if (strs == null || strs.length == 0)
+        if(strs.length ==0){
             return "";
-        String assumeprefix=strs[0];
-        for(int i=1;i<strs.length;i++){
-            while(!strs[i].startsWith(assumeprefix)){
-                assumeprefix=assumeprefix.substring(0,assumeprefix.length()-1);//prefix is getting short sholength too willbe
-                if (assumeprefix.isEmpty()){
-                    return "";
-            }
-
-            }
-
         }
-        return assumeprefix;
+        String assumed=strs[0];
+        for(int i=1;i<strs.length;i++){
+            while(!strs[i].startsWith(assumed)){
+                assumed =assumed.substring(0,assumed.length()-1);
+                if(assumed.length()==0){
+                    return "";
+                }
 
+            }
+            
+            
+        }
+        return assumed;
+        
     }
-    }
+}
