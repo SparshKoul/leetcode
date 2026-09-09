@@ -668,4 +668,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SparshKoul/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/SparshKoul/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
