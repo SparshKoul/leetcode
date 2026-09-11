@@ -9,10 +9,9 @@
  * }
  */
 class Solution {
-
-    public ListNode findmid(ListNode head) {
+    public ListNode getmid(ListNode head) {
         ListNode slow = head;
-        ListNode fast = head.next.next;//slow aat 1t half end se 1ek pehle
+        ListNode fast = head.next.next;// slow at 1st half end ka bhi ek pehla
 
         while (fast != null && fast.next != null) {
             slow = slow.next;
@@ -23,14 +22,13 @@ class Solution {
     }
 
     public ListNode deleteMiddle(ListNode head) {
+
         if (head == null || head.next == null) {
             return null;
         }
-        ListNode mid = findmid(head); //at 1st hhlaf seconf last
+        ListNode mid = getmid(head);
         mid.next = mid.next.next;
         return head;
-    }
 
+    }
 }
-//odd k liye slow at is hald k second last like 2 for 12345
-//even it normal 2 for 1234
