@@ -9,66 +9,22 @@
  * }
  */
 class Solution {
-    public ListNode findmiddle(ListNode head) {
-        if (head == null || head.next == null) {
-            return head;
-        }
-        ListNode slow = head;
-        ListNode fast = head.next;
-        while (fast != null && fast.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-        return slow;//slow at 1st half k end
-
-    }
-
     public ListNode sortList(ListNode head) {
-
-        if (head == null || head.next == null) {
-            return head;
+        ArrayList <Integer> arr= new ArrayList<>();
+        ListNode temp=head;
+        while(temp!=null){
+            arr.add(temp.val);
+            temp=temp.next;
         }
+        Collections.sort(arr);
 
-        ListNode middle = findmiddle(head);
 
-        //split
-        ListNode righthead = middle.next;
-        middle.next = null;
-
-        // Sort both halves
-        ListNode left = sortList(head);
-        ListNode right = sortList(righthead);
-
-        return merge(left, right);
-
-    }
-
-    private ListNode merge(ListNode l1, ListNode l2) {
-
-        ListNode dummy = new ListNode(-1);
-        ListNode temp = dummy;
-
-        while (l1 != null && l2 != null) {
-
-            if (l1.val <= l2.val) {
-                temp.next = l1;
-                l1 = l1.next;
-            } else {
-                temp.next = l2;
-                l2 = l2.next;
-            }
-
-            temp = temp.next;
+        temp=head;
+        for(int i=0;i<arr.size();i++){
+            temp.val=arr.get(i);
+            temp=temp.next;
         }
-
-        if (l1 != null) {
-            temp.next = l1;
-        }
-
-        if (l2 != null) {
-            temp.next = l2;
-        }
-
-        return dummy.next;
+        return head;
+        
     }
 }
