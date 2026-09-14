@@ -9,26 +9,62 @@
  * }
  */
 class Solution {
-    public ListNode sortList(ListNode head) {
-        if(head ==null || head.next ==null){
+    public ListNode getmid(ListNode head) {
+        if (head == null || head.next == null) {
             return head;
         }
-        ArrayList<Integer> arr = new ArrayList<>();
-        ListNode temp =head;
-        while(temp!=null){
-            arr.add(temp.val);
-            temp=temp.next;
-        }
-        Collections.sort(arr);
-        temp =head;
-        for(int i=0;i<arr.size();i++){
-            temp.val=arr.get(i);
-            temp=temp.next;
-        }
-        temp=head;
-        return temp;
-        
+        ListNode slow = head;
+        ListNode fast = head.next;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
 
-        
+        }
+        return slow;//1st h ebd
+    }
+
+    public ListNode merge(ListNode l1, ListNode l2) {
+
+        ListNode dummy = new ListNode(-1);
+        ListNode temp = dummy;
+
+        while (l1 != null && l2 != null) {
+            if (l1.val <= l2.val) {
+                temp.next = l1;
+                l1 = l1.next;
+            } else {
+                temp.next = l2;
+                l2 = l2.next;
+            }
+            temp = temp.next;
+
+        }
+        if (l1 != null) {
+            temp.next = l1;
+        }
+        if (l2 != null) {
+            temp.next = l2;
+        }
+
+        return dummy.next;
+
+    }
+
+    public ListNode sortList(ListNode head) {
+        if (head == null || head.next == null) {
+            return head;
+        }
+
+        //split
+        ListNode mid = getmid(head);
+        ListNode righthead = mid.next;
+        mid.next = null;
+
+        // Sort both halves
+        ListNode left = sortList(head);
+        ListNode right = sortList(righthead);
+
+        return merge(left, right);
+
     }
 }
