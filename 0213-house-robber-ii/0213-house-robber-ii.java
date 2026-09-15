@@ -1,15 +1,28 @@
 class Solution {
-    public int amount(int []nums, int i, int end, int []dp) {
-        if (i > end)
-            return 0;
-        if(dp[i] != -1){
-            return dp[i];
-        }
-        int rob = nums[i] + amount(nums, i + 2, end,dp);
-        int skip = amount(nums, i + 1, end,dp);
 
-        dp[i] =Math.max(rob, skip);
-        return dp[i];
+    public int robRange(int[] nums, int start, int end) {
+        if (start == end) {
+            return nums[start];
+        }
+
+        int[] dp = new int[nums.length];
+
+        // Base 
+        dp[start] = nums[start];
+
+        // Base 
+        dp[start + 1] = Math.max(nums[start], nums[start + 1]);
+
+        for (int i = start + 2; i <= end; i++) {
+
+            int rob = nums[i] + dp[i - 2];
+
+            int skip = dp[i - 1];
+
+            dp[i] = Math.max(rob, skip);
+        }
+
+        return dp[end];
     }
 
     public int rob(int[] nums) {
@@ -20,15 +33,10 @@ class Solution {
             return nums[0];
         }
 
-        int dp1[] = new int [n];
-        Arrays.fill(dp1,-1);
-        int case1 = amount(nums, 1, n - 1,dp1);
+        int case1 = robRange(nums, 0, n - 2);
 
-        int dp2[] = new int [n];
-        Arrays.fill(dp2,-1);
-        int case2 = amount(nums, 0, n - 2,dp2);
-        
+        int case2 = robRange(nums, 1, n - 1);
+
         return Math.max(case1, case2);
-
     }
 }
