@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3005-count-elements-with-maximum-frequency](https://github.com/SparshKoul/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SparshKoul/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SparshKoul/leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SparshKoul/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SparshKoul/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SparshKoul/leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SparshKoul/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2404-most-frequent-even-element](https://github.com/SparshKoul/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SparshKoul/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SparshKoul/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SparshKoul/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SparshKoul/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SparshKoul/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/SparshKoul/leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/SparshKoul/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SparshKoul/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SparshKoul/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
