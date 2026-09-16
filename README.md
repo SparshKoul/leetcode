@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0733-flood-fill](https://github.com/SparshKoul/leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/SparshKoul/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SparshKoul/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0875-koko-eating-bananas](https://github.com/SparshKoul/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/SparshKoul/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SparshKoul/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/SparshKoul/leetcode/tree/master/0994-rotting-oranges) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0540-single-element-in-a-sorted-array](https://github.com/SparshKoul/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/SparshKoul/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/SparshKoul/leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/SparshKoul/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1901-find-a-peak-element-ii](https://github.com/SparshKoul/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/SparshKoul/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SparshKoul/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
