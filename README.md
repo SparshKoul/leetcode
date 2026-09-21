@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0905-sort-array-by-parity](https://github.com/SparshKoul/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SparshKoul/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/SparshKoul/leetcode/tree/master/0994-rotting-oranges) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/SparshKoul/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SparshKoul/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SparshKoul/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1395-count-number-of-teams](https://github.com/SparshKoul/leetcode/tree/master/1395-count-number-of-teams) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0509-fibonacci-number](https://github.com/SparshKoul/leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/SparshKoul/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/SparshKoul/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/SparshKoul/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1395-count-number-of-teams](https://github.com/SparshKoul/leetcode/tree/master/1395-count-number-of-teams) |
 ## Math
 |  |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0240-search-a-2d-matrix-ii](https://github.com/SparshKoul/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/SparshKoul/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SparshKoul/leetcode/tree/master/0994-rotting-oranges) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/SparshKoul/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1901-find-a-peak-element-ii](https://github.com/SparshKoul/leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Quicksort
 |  |
