@@ -1,18 +1,18 @@
 class Solution {
-    //space opt const
-    public int fib(int n) {
-        if (n <= 1) {
-            return n;
+    public int ways(int n,int []dp){
+        if(n==0) return 0;
+        if(n==1) return 1;
+        if(dp[n] !=-1){
+            return dp[n];
         }
-        int dp[] = new int[3];
-        dp[0] = 0;
-        dp[1] = 1;
-        for (int i = 2; i <= n; i++) {
-            dp[2] = dp[1] + dp[0];
-            dp[0]=dp[1];
-            dp[1]=dp[2];
-        }
-        return dp[2];
+        dp[n]= ways(n-1,dp) + ways(n-2,dp);
+        return dp[n];
 
+    }
+    public int fib(int n) {
+        int dp[] =new int [n+1];
+        Arrays.fill(dp,-1);
+        return ways(n,dp);
+        
     }
 }
