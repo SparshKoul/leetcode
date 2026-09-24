@@ -1,16 +1,19 @@
 class Solution {
-    public void moveZeroes(int[] nums) {
-        //0s is not pushed behinf rather swapped witht those non 0s
-        int k = 0;
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] != 0) {
-                int temp = nums[i];
-                nums[i] = nums[k];
-                nums[k] = temp;
-                k++;
-
+    public void moveZeroes(int[] arr) {
+        int n=arr.length;
+        int pos=0;
+        for(int i=0;i<n;i++){
+            if(arr[i]!=0){
+                int temp =arr[i];
+                for(int j=i;j>pos;j--){
+                    arr[i] =arr[i-1];
+                }
+                arr[pos] =temp;
+                pos++;
             }
+            
         }
-
+    
+        
     }
 }
