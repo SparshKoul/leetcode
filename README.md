@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0442-find-all-duplicates-in-an-array](https://github.com/SparshKoul/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SparshKoul/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SparshKoul/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/SparshKoul/leetcode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SparshKoul/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SparshKoul/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/SparshKoul/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0279-perfect-squares](https://github.com/SparshKoul/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/SparshKoul/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SparshKoul/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/SparshKoul/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/SparshKoul/leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/SparshKoul/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/SparshKoul/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/SparshKoul/leetcode/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/SparshKoul/leetcode/tree/master/0494-target-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -728,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0279-perfect-squares](https://github.com/SparshKoul/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/SparshKoul/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SparshKoul/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/SparshKoul/leetcode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -737,4 +741,5 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/SparshKoul/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/SparshKoul/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
