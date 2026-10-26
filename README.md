@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0189-rotate-array](https://github.com/SparshKoul/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SparshKoul/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/SparshKoul/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/SparshKoul/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SparshKoul/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/SparshKoul/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/SparshKoul/leetcode/tree/master/0279-perfect-squares) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SparshKoul/leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SparshKoul/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SparshKoul/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SparshKoul/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SparshKoul/leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/SparshKoul/leetcode/tree/master/0258-add-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SparshKoul/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/SparshKoul/leetcode/tree/master/1518-water-bottles) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SparshKoul/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
