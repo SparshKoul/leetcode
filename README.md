@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0451-sort-characters-by-frequency](https://github.com/SparshKoul/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/SparshKoul/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/SparshKoul/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0771-jewels-and-stones](https://github.com/SparshKoul/leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/SparshKoul/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SparshKoul/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/SparshKoul/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0516-longest-palindromic-subsequence](https://github.com/SparshKoul/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/SparshKoul/leetcode/tree/master/0520-detect-capital) |
 | [0692-top-k-frequent-words](https://github.com/SparshKoul/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0771-jewels-and-stones](https://github.com/SparshKoul/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/SparshKoul/leetcode/tree/master/0796-rotate-string) |
 | [1446-consecutive-characters](https://github.com/SparshKoul/leetcode/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SparshKoul/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
