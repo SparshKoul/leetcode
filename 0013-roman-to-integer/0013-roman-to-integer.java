@@ -10,13 +10,19 @@ class Solution {
         map.put('M',1000);
 
         int total=0;
-        for(int i=0;i<s.length();i++){
-            int value =map.get(s.charAt(i));
-            if(i<s.length()-1 && value< map.get(s.charAt(i+1))){
-                total=total-value;
+        for(int i=0;i<s.length(); i++){
+            char ch =s.charAt(i);
+            int value  = map.get(ch);
+            
+            if(i+1<s.length() && value < map.get(s.charAt(i+1)) ){
+                total =total -value;
             }
-            else total=total+value;
+            else{
+                total=total+value;
+            }
+
         }
         return total;
     }
+
 }
