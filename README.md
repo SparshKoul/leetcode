@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0242-valid-anagram](https://github.com/SparshKoul/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SparshKoul/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SparshKoul/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/SparshKoul/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SparshKoul/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SparshKoul/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SparshKoul/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0205-isomorphic-strings](https://github.com/SparshKoul/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SparshKoul/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/SparshKoul/leetcode/tree/master/0257-binary-tree-paths) |
+| [0387-first-unique-character-in-a-string](https://github.com/SparshKoul/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SparshKoul/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/SparshKoul/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/SparshKoul/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0169-majority-element](https://github.com/SparshKoul/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SparshKoul/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SparshKoul/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/SparshKoul/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SparshKoul/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/SparshKoul/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/SparshKoul/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -754,5 +757,6 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SparshKoul/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SparshKoul/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
