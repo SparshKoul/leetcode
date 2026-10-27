@@ -7,26 +7,27 @@ class Solution {
         }
         
         StringBuilder sb =new StringBuilder();
-        while( !map.isEmpty()){
-            int maxfreq =Integer.MIN_VALUE;
+        while(!map.isEmpty()){
+            int maxfreq = Integer.MIN_VALUE;
             char maxchar= ' ';
-            for(char num : map.keySet()){
-                int freq=map.get(num);
+            for(char ch : map.keySet()){
+                int freq =map.get(ch);
+
                 if(freq>maxfreq){
-                    maxfreq=freq;
-                    maxchar=num;
+                    maxfreq= freq;
+                    maxchar =ch;
                 }
-                else if (freq ==maxfreq && num >maxchar){
-                    maxchar=num;
+                else if ( freq ==maxfreq && ch <maxchar ){
+                    maxchar =ch;
                 }
-                
             }
-            for(int i=0;i<maxfreq;i++){
+            for (int i=0;i<maxfreq;i++){
                 sb.append(maxchar);
             }
             map.remove(maxchar);
-        }
 
+        }
         return sb.toString();
+       
     }
 }
