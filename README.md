@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0143-reorder-list](https://github.com/SparshKoul/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SparshKoul/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SparshKoul/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/SparshKoul/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/SparshKoul/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SparshKoul/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/SparshKoul/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -785,4 +786,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SparshKoul/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SparshKoul/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/SparshKoul/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
