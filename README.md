@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0035-search-insert-position](https://github.com/SparshKoul/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/SparshKoul/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/SparshKoul/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/SparshKoul/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/SparshKoul/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SparshKoul/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SparshKoul/leetcode/tree/master/0053-maximum-subarray) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SparshKoul/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/SparshKoul/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SparshKoul/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SparshKoul/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SparshKoul/leetcode/tree/master/0062-unique-paths) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/SparshKoul/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SparshKoul/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/SparshKoul/leetcode/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/SparshKoul/leetcode/tree/master/1903-largest-odd-number-in-string) |
