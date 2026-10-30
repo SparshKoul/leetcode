@@ -1,26 +1,26 @@
 class Solution {
     public int findContentChildren(int[] greed, int[] cookie) {
         int g = greed.length;
-        int c = cookie.length;
+        int c =cookie.length;
 
+        int left=0; //greed
+        int right =0; //cookie ptr
         Arrays.sort(greed);
         Arrays.sort(cookie);
 
-        int left = 0;  // Child 
-        int right = 0; // Cookieee 
-        int count = 0;
-
-        while (left < g && right < c) {
-
-            if (cookie[right] >= greed[left]) {//satisy kid
-                count++;
-                left++;
+        int count=0;
+        while(left<g && right <c){
+            if(cookie[right] >= greed[left]){ // cookie is abe to satisfy greed of kid
+            count++;
+            left++;
+            right++;
+            }
+            else{ //try bigger cookie
                 right++;
-            } else {
-                right++; // not satisy try bigger cookie
             }
         }
 
         return count;
+        
     }
 }
