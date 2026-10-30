@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0733-flood-fill](https://github.com/SparshKoul/leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/SparshKoul/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SparshKoul/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0860-lemonade-change](https://github.com/SparshKoul/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/SparshKoul/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/SparshKoul/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SparshKoul/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0045-jump-game-ii](https://github.com/SparshKoul/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SparshKoul/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/SparshKoul/leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/SparshKoul/leetcode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/SparshKoul/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SparshKoul/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Heap (Priority Queue)
