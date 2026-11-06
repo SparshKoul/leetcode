@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0350-intersection-of-two-arrays-ii](https://github.com/SparshKoul/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/SparshKoul/leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/SparshKoul/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/SparshKoul/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SparshKoul/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SparshKoul/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/SparshKoul/leetcode/tree/master/0455-assign-cookies) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0279-perfect-squares](https://github.com/SparshKoul/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/SparshKoul/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SparshKoul/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/SparshKoul/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/SparshKoul/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/SparshKoul/leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/SparshKoul/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0349-intersection-of-two-arrays](https://github.com/SparshKoul/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SparshKoul/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/SparshKoul/leetcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/SparshKoul/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SparshKoul/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SparshKoul/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/SparshKoul/leetcode/tree/master/0455-assign-cookies) |
@@ -746,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0045-jump-game-ii](https://github.com/SparshKoul/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SparshKoul/leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/SparshKoul/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SparshKoul/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/SparshKoul/leetcode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/SparshKoul/leetcode/tree/master/1903-largest-odd-number-in-string) |
