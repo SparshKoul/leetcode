@@ -6,7 +6,7 @@ class Solution {
         int start = intervals[0][0];
         int end = intervals[0][1];
         for (int i = 1; i < n; i++) {
-            if (intervals[i][0] <= end) {//merge cond
+            if (intervals[i][0] <= end) {//merge cond (new intvel first with old intv last )
                 end = Math.max(end, intervals[i][1]);
             } else {
                 res.add(new int[] { start, end });
