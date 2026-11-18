@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1137-n-th-tribonacci-number](https://github.com/SparshKoul/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/SparshKoul/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SparshKoul/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SparshKoul/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1395-count-number-of-teams](https://github.com/SparshKoul/leetcode/tree/master/1395-count-number-of-teams) |
 ## Math
 |  |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0771-jewels-and-stones](https://github.com/SparshKoul/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/SparshKoul/leetcode/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/SparshKoul/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SparshKoul/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1446-consecutive-characters](https://github.com/SparshKoul/leetcode/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SparshKoul/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SparshKoul/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
