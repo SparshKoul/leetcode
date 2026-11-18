@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0516-longest-palindromic-subsequence](https://github.com/SparshKoul/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/SparshKoul/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/SparshKoul/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/SparshKoul/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SparshKoul/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1395-count-number-of-teams](https://github.com/SparshKoul/leetcode/tree/master/1395-count-number-of-teams) |
 ## Math
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0692-top-k-frequent-words](https://github.com/SparshKoul/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/SparshKoul/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/SparshKoul/leetcode/tree/master/0796-rotate-string) |
+| [1143-longest-common-subsequence](https://github.com/SparshKoul/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1446-consecutive-characters](https://github.com/SparshKoul/leetcode/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SparshKoul/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SparshKoul/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -819,4 +821,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0155-min-stack](https://github.com/SparshKoul/leetcode/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/SparshKoul/leetcode/tree/master/0622-design-circular-queue) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/SparshKoul/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
