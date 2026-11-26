@@ -1,8 +1,9 @@
 class Solution {
+    // lcs 
+    //printlcs
+    //lcSubstring
 
-    //tabulation but base case is handled via diff size of dp
-
-    //instead of tring passing bew pass indesx of string;
+    
     public int longestCommonSubsequence(String text1, String text2) {
 
         
@@ -41,6 +42,31 @@ class Solution {
         System.out.println(ans.reverse().toString());
 
         return dp[m][n];
+
+    }
+
+
+
+    //longest common substring that is not being called 
+    public int longestCommonSubstring(String text1, String text2){
+
+        int max =0;
+        int m = text1.length();
+        int n =text2.length();
+        int dp[][] =  new int [m+1][n+1];
+
+        for(int i=1;i<=m;i++){
+            for(int j=1;j<=n;j++){
+                if(text1.charAt(i) == text2.charAt(j)){
+                    dp[i][j] = 1+ dp[i-1][j-1];
+                    max =Math.max(max,dp[i][j]);
+                }
+                else{
+                    dp[i][j] =0;
+                }
+            }
+        }
+        return max;
 
     }
 }
