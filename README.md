@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0516-longest-palindromic-subsequence](https://github.com/SparshKoul/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/SparshKoul/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/SparshKoul/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1092-shortest-common-supersequence](https://github.com/SparshKoul/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/SparshKoul/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/SparshKoul/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SparshKoul/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0692-top-k-frequent-words](https://github.com/SparshKoul/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/SparshKoul/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/SparshKoul/leetcode/tree/master/0796-rotate-string) |
+| [1092-shortest-common-supersequence](https://github.com/SparshKoul/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/SparshKoul/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SparshKoul/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1446-consecutive-characters](https://github.com/SparshKoul/leetcode/tree/master/1446-consecutive-characters) |
@@ -829,5 +831,6 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/SparshKoul/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/SparshKoul/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/SparshKoul/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
